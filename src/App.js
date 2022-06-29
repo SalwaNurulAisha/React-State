@@ -1,8 +1,8 @@
 import "./App.css";
-import Counter from "./documents/Counter";
-import Login from "./documents/Login";
-import Login2 from "./documents/Login2";
-import Todo from "./documents/Todo";
+import Counter from "./components/Counter";
+import Login from "./components/Login";
+import Login2 from "./components/Login2";
+import Todo from "./components/Todo";
 
 function App() {
   return (
